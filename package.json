@@ -1,8 +1,10 @@
 {
-  "name": "perms.ts",
+  "name": "@guarde/perms.ts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
   "scripts": {
     "test": "jest",
     "build": "tsc"
