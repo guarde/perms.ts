@@ -14,7 +14,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.15.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guarde/perms.ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guarde/perms.ts/issues"
+  },
+  "homepage": "https://github.com/guarde/perms.ts#readme",
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "jest": "^30.2.0",
