@@ -1,8 +1,11 @@
 # perms.ts Documentation
 
 > **Repository:** [github.com/guarde/perms.ts](https://github.com/guarde/perms.ts)
+> 
 > **Package:** `@guarde/perms.ts`
+> 
 > **Version:** 1.0.9
+> 
 > **License:** ISC
 
 ## Overview
